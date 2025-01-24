@@ -103,7 +103,7 @@ export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
 ```
 ### Start Node
 ```
-./executor
+cd executor/executor/bin ./executor
 ```
 
 Take a screenshot of running node and post it on discord to get a role.
